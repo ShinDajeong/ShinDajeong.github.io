@@ -1,8 +1,8 @@
 ---
 layout: post
-title: OSI 7계층
+title: '[네트워크] OSI 7계층'
 date: 2020-12-29 02:02:00
-description: OSI 참조 모델
+description: 'OSI 참조 모델'
 ---
 
 # OSI 7계층
@@ -12,7 +12,7 @@ description: OSI 참조 모델
 </blockquote>
 
 <br>
-* 동일 계층 간에 교환되는 정보의 단위 *
+*동일 계층 간에 교환되는 정보의 단위*
  
 물리 계층 : 비트
 
