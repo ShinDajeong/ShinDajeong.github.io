@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [네트워크] OSI 7계층
-date: 2020-12-29 01:58:00
+date: 2020-12-28 23:58:00
 description: OSI 참조 모델
 ---
 
