@@ -12,7 +12,7 @@ description: '표본화, 양자화, 부호화, 복호화'
 송신 측에서 아날로그 데이터를 표본화하여 PAM 신호로 만든 후 양자화, 부호화 단계를 거쳐 디지털 형태(2진수)로 전송하는 방식
 
 <div class="img_row">
-	<img class="col three" src="/img/network1.PNG" width>
+	<img src="/img/network1.PNG" height="100px" width="100%">
 </div>
 <br>
 
