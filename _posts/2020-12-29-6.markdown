@@ -42,6 +42,8 @@ description: 'TCP UDP의 특징과 차이점'
 
 <br><br>
 
+**[TCP와 UDP 차이점]**
+
 <div>
 	<img src="/img/network2.PNG" height="70%" width="80%">
 </div>
