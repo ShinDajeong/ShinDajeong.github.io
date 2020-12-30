@@ -7,6 +7,7 @@ description: 'HTTP 프로토콜의 정의와 특징'
 
 # HTTP
 
+<br>
 <blockquote>
 Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고 받기 위한 서버/클라이언트 모델을 따라는 프로토콜이다
 <br> \* 프로토콜 : 상호 간에 정의한 규칙 
@@ -14,8 +15,9 @@ Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고
 
 <br><br>
 
-## HTTP 프로토콜 특징
+#### HTTP 프로토콜 특징
 
+<br>
 - TCP/IP를 이용하는 _응용 계층_ 프로토콜
 
 - 연결 상태를 유지하지 않는 _비연결성_ 프로토콜
@@ -36,8 +38,9 @@ Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고
 <br>\* 쿠키는 브라우저 종료 후에도 저장되어 있을 수 있지만, 세션은 브라우저 종료시 세션을 삭제한다
 <br><br><br>
 
-## HTTP 헤더
+#### HTTP 헤더
 
+<br>
 > HTTP 프로토콜 상에서 클라이언트와 서버는 데이터를 패킷 단위로 잘게 쪼개서 통신한다
 > <br>패킷에는 요청/응답에 대한 메시지가 담겨 있다
 > <br>패킷의 구조는 다음과 같다
@@ -48,8 +51,9 @@ Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고
 
 <br>
 
-## HTTP 요청 메소드
+#### HTTP 요청 메소드
 
+<br>
 - GET : 존재하는 자원에 대한 _요청_
 - POST : 새로운 자원 _생성_
 - PUT : 존재하는 자원에 대한 _변경_
@@ -57,8 +61,9 @@ Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고
 
 <br>
 
-## HTTP 상태 코드
+#### HTTP 상태 코드
 
+<br>
 - 200 OK : 클라이언트 요청 성공
 - 400 Bad Request : 클라이언트가 서버에 잘못된 요청을 했다는 것을 나타냄
 - 401 Unauthorized : 서버가 클라이언트 요청에 대해 HTTP 인증 확인 요구하는 것을 나타냄
@@ -68,8 +73,9 @@ Hypertext Transfer Protocol의 약어로, 인터넷상에서 데이터를 주고
 
 <br>
 
-## HTTP와 HTTPS
+#### HTTP와 HTTPS
 
+<br>
 1.  약자 풀이
     <br> HTTP : HyperText Transfer Protocol
     <br> HTTPS : HyperText Transfer Protocol over Secure Socket Layer
