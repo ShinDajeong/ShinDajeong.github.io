@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '[네트워크] IP (Internet Protocol)'
-date: 2020-12-30 20:10:00
-description: 'IP 특징, IPv6, 서브넷 마스크, 사설 IP '
+date: 2020-12-30 20:44:00
+description: 'IP 특징, IPv6, 서브넷 마스크, 사설 IP, DNS '
 ---
 
 # IP
